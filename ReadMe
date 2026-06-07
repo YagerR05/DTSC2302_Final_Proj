@@ -2,9 +2,9 @@
 
 This project was built for Modeling and Society B (DTSC2302). 
 
-### 👥 The Team & Roles
-* **Yager Range**: Built classification model (Model 2) to predict high versus low traffic fatality risk years in Mecklenburg County, North Carolina.
-* **Collaborators** - Built in collaboration with Esteban Grijalva, Emmett Lashbrook, Brandon Miller, and Peyton Robinson.
+### The Team
+* Yager Range: Built classification model (Model 2) to predict high versus low traffic fatality risk years in Mecklenburg County, North Carolina.
+* Collaborators - Built in collaboration with Esteban Grijalva, Emmett Lashbrook, Brandon Miller, and Peyton Robinson.
 
 ---
 For this analysis you will write a proposal, a report and record a presentation which will focus on the implications of the model with a small amount of emphasis on the modelling process. Be sure to specify any new features you created. Put supportive model output in an Appendix for each Part below. Do not worry about the performance of your models reaching some threshold; instead, try to make the best possible model that you can. Be sure to show you steps toward your final model.
